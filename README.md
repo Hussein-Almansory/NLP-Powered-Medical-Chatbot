@@ -1,7 +1,7 @@
 # Medical Chatbot
 
 ## Introduction
-Welcome to the Medical Chatbot project! This Python application leverages Natural Language Processing (NLP) techniques and Artificial Intelligence to provide accurate preliminary diagnoses based on user-input symptoms. The chatbot extracts information from medical PDFs and uses advanced language models for effective communication.
+Welcome to the Medical Chatbot project! This Python application leverages Natural Language Processing (NLP) techniques and Artificial Intelligence to provide accurate preliminary diagnoses based on user-input symptoms. The chatbot extracts information from medical PDFs and uses two advanced language models, ChatOpenAI and Flan-T5-SMALL, for effective communication.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -14,7 +14,7 @@ Welcome to the Medical Chatbot project! This Python application leverages Natura
 8. [License](#license)
 
 ## How It Works
-The chatbot operates by processing medical PDFs, extracting relevant information, and utilizing advanced language models for accurate responses. The LangChain framework facilitates efficient text processing, allowing real-time interaction with users.
+The chatbot operates by processing medical PDFs, extracting relevant information, and utilizing two advanced language models, ChatOpenAI and Flan-T5-SMALL, for generating responses. The LangChain framework facilitates efficient text processing, allowing real-time interaction with users.
 
 ## Project Structure
 - `main.py`: Entry point for running the Streamlit application.
@@ -27,5 +27,5 @@ The chatbot operates by processing medical PDFs, extracting relevant information
 ## Getting Started
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/hussein-almansory/medical-chatbot.git
+   git clone https://github.com/yourusername/medical-chatbot.git
    cd medical-chatbot
