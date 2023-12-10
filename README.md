@@ -1,7 +1,7 @@
 # Medical Chatbot 🤖🌡️
 <h3> Welcome to Medical Chatbot ! </h3>
 
-![Alt text](images\image.png)
+![Alt text](images/image.png)
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ This project leverages Natural Language Processing (NLP) techniques and Artifici
 
 ## How It Works ⚙️
 
-![Alt text](images\image-1.png)
+![Alt text](images/image-1.png)
 
 
 This chatbot operates by processing medical PDFs, extracting relevant information, and utilizing two advanced language models, ChatOpenAI and Flan-T5-SMALL, for generating responses. The LangChain framework facilitates efficient text processing, allowing real-time interaction with users.
@@ -79,7 +79,7 @@ To use the MedicalChat bot, follow these steps:
 
 
 ### Now, you can ask medical question !
-![Alt text](images\image-2.png)
+![Alt text](images/image-2.png)
 
 
 
