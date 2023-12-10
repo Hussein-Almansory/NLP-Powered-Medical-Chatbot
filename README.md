@@ -19,7 +19,7 @@
 ## Introduction 
 This project leverages Natural Language Processing (NLP) techniques and Artificial Intelligence to provide accurate preliminary diagnoses based on user-input symptoms. The chatbot extracts information from medical PDFs and uses two advanced language models, ChatOpenAI and Flan-T5-SMALL, for effective communication.
 
-## How It Works ⚙️
+## How It Works
 
 ![Alt text](images/image-1.png)
 
