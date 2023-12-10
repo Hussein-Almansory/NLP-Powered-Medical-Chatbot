@@ -9,9 +9,9 @@
 2. [How It Works](#how-it-works)
 3. [Project Structure](#project-structure)
 4. [Getting Started](#getting-started)
-5. [Usage](#Usage)
+5. [Usage](#usage)
 6. [Performance Measurements](#performance-measurements)
-7. [Contributing](#contributing)
+7. [Contributors](#contributors)
 8. [License](#license)
 
 
@@ -44,7 +44,7 @@ Two advanced language models are employed in the chatbot:
 The text processing in the chatbot is powered by the LangChain framework. This framework ensures efficient handling of text data, enabling real-time interaction with users.
 
 
-## Project Structure 📂
+## Project Structure
 - `requirements.txt`: List of Python dependencies.
 - `main.py`: Entry point for running the Streamlit application.
 - `Performance_Measurements.py`: Module for measuring the performance of the chatbot.
@@ -53,7 +53,7 @@ The text processing in the chatbot is powered by the LangChain framework. This f
 - `htmlTemplates.py`: HTML templates for the Streamlit application.
 - `.env`: API Keys.
  
-## Getting Started 🚦
+## Getting Started
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/hussein-almansory/medical-chatbot.git
@@ -65,7 +65,7 @@ The text processing in the chatbot is powered by the LangChain framework. This f
 3. **IMPORTANT**: Obtain an API key from OpenAI (Recomended) or HuggingFace and add it to the `.env` file in the project directory
 
 
-## Usage 🚀
+## Usage
 To use the MedicalChat bot, follow these steps:
 1. Ensure that you have installed the required dependencies.
 2. Ensure that you have added the OpenAI API key to the **.env** file.
@@ -83,7 +83,7 @@ To use the MedicalChat bot, follow these steps:
 
 
 
-## Performance Measurements 📊
+## Performance Measurements
 
 To measure the performance of the model using BLEU or Levenshtein distance, follow these steps:
 
