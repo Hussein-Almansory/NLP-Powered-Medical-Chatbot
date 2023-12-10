@@ -5,14 +5,14 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [How It Works](#2-how-it-works)
-3. [Project Structure](#3-project-structure)
-4. [Getting Started](#4-getting-started)
-5. [Usage](#5-Usage)
-6. [Performance Measurements](#6-performance-measurements)
-7. [Contributing](#7-contributing)
-8. [License](#8-license)
+1. [Introduction](#introduction)
+2. [How It Works](#how-it-works)
+3. [Project Structure](#project-structure)
+4. [Getting Started](#getting-started)
+5. [Usage](#Usage)
+6. [Performance Measurements](#performance-measurements)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 
 ## Introduction 
