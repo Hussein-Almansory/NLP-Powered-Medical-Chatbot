@@ -1,5 +1,8 @@
-# Medical Chatbot 🤖🌡️
-<h3> Welcome to Medical Chatbot ! </h3>
+# Medical Chatbot
+
+<div style="text-align: center;">
+  <h1 style="font-size: 2em;">Welcome to Medical Chatbot! 🤖🌡️</h1>
+</div>
 
 ![Alt text](images/image.png)
 
